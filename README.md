@@ -15,10 +15,11 @@ A new feature that Twitter recently launched is called “Moments”. Users need
 [Project Link](https://devpost.com/software/softweare)\
 [Final presentation video](https://youtu.be/nynNSc3SGvA)\
 [Demo video](https://drive.google.com/file/d/1_JiQrDGXv87o2u--TGwNtJnxJFDy689C/view?usp=sharing)
+[Hackathon recap](https://twitter.com/ibtihel_ouni/status/1335256683107524615)
 ## **Test :**
 `python SentimentComparison.py `
 
-![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/58151963/100389970-383c3c80-302f-11eb-82a4-a0fdf344669c.gif)
+
 
 
 
