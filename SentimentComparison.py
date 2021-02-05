@@ -8,8 +8,8 @@ from typing import List
 import preprocessor as p
 
 
-consumer_key = '0GZzVYc6FDMvvJgWsc2PXsoRX'
-consumer_secret = 'BhFZJuJ0qSu1HSNxIgpOPmm609ttbh4z3upGaO8CXBCIGRTN33'
+consumer_key = 'your CONSUMER_KEY'
+consumer_secret = 'your CONSUMER_SECRET'
 
 auth = tweepy.AppAuthHandler (consumer_key, consumer_secret)
 
